@@ -8,7 +8,6 @@ public class RemoveDuplicates {
                 Input: abcabbcd
                 Output: abcd
  */
-
             public static void main(String[] args) {
                 String str = "sdjkfhdskjhfskdjfh";
                 String unique = "";

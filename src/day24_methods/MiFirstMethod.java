@@ -7,6 +7,7 @@ public class MiFirstMethod {
     // it is void method (does not return anything back - does some action)
     // it is non-parameterized method
     public static void printHelloWorld (){
+
         System.out.println("Hello World!");
     }
 

@@ -10,7 +10,7 @@ public class Account {
         }
     }
 
-    public void withdraw(double amount) {
+    public void withdraw(double amount) throws NotEnoughBalanceException {
 
         if (amount > balance) {
             // System.out.println("Balance only has $" + balance);
